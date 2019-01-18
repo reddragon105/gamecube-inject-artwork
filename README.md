@@ -11,7 +11,7 @@ For the icons, I've used the box cover art for each game, which has been edited 
 
 # What's included?
 
-Artwork for every game that I've installed on my Wii U. You can go down the list and see if the game you want is there and, if you like it, you can just use it as-is.
+Artwork for every game that I've installed on my Wii U. You can go down the list of files in the 'artwork' folder and see if the game you want is there and, if you like it, you can just use it as-is.
 
 Otherwise, there are Photoshop templates for icons and banners so you can just download the PSDs and edit them yourself, adding artwork for whichever game(s). If you're doing this, make sure you also download and install the fonts.
 
